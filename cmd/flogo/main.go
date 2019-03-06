@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/project-flogo/cli/commands"
+	"github.com/apandurangi/cli/commands"
 )
 
 func main() {
